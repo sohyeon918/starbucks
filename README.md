@@ -1,6 +1,7 @@
 <h2> starbucks 랜딩 페이지(홈페이지) 만들기 입니다. </h2>
 
 [메인페이지](https://starbucks-sohyeon.netlify.app/)
+
 [로그인페이지](https://starbucks-sohyeon.netlify.app/signin/)
 
 ####메인 홈페이지
